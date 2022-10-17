@@ -3,7 +3,7 @@
 #Gädda ärver från Fisk
 #Aborre ärver från Fisk
 #Fisk ska ha attributet simhastighet som sätts i konstruktorn
-#Mera fisk
+#Mindre fisk
 
 class Fisk:
     
