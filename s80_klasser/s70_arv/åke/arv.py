@@ -2,7 +2,7 @@
 #Fisk superklass
 #Gädda ärver från Fisk
 #Aborre ärver från Fisk
-#Fisk ska ha attributet simhastighet
+#Fisk ska ha attributet simhastighet som sätts i konstruktorn
 
 class Fisk:
     
