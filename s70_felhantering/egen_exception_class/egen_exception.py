@@ -7,5 +7,6 @@ Exception  """
 
 """ Skapa en funktion som heter:
 Kasta
-Metoden ska kasta/raise EgenException
+Funktionen ska kasta/raise EgenException
 """
+
